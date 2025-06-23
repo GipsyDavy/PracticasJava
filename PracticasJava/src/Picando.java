@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Picando {
 
+<<<<<<< HEAD
 	
 	
 	public static void main1(String [] args) {
@@ -12,6 +13,7 @@ public class Picando {
 			j++;
 		}
 		System.out.println(j);
-	}
+=======
+
 		
 	}
