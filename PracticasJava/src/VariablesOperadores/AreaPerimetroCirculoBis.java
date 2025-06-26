@@ -1,6 +1,6 @@
 package VariablesOperadores;
 
-public class Practica4Bis {
+public class AreaPerimetroCirculoBis {
 
 	public static void main(String[] args) {
 		/*Escribir un programa que calcule el perímetro y el área de un círculo y la muestre por consola. 

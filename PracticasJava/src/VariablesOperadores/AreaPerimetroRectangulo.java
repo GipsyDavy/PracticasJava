@@ -2,7 +2,7 @@ package VariablesOperadores;
 
 import java.util.Scanner;
 
-public class Practica3 {
+public class AreaPerimetroRectangulo {
 
 	public static void main(String[] args) {
 		/* 

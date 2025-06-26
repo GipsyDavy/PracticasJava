@@ -2,7 +2,7 @@ package VariablesOperadores;
 
 import java.util.Scanner;
 
-public class Practica5 {
+public class ConversorMoneda {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

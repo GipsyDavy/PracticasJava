@@ -2,7 +2,7 @@ package VariablesOperadores;
 
 import java.util.Scanner;
 
-public class Practica2 {
+public class NotaMedia {
 
 	public static void main(String[] args) {
 		var sc = new Scanner(System.in);

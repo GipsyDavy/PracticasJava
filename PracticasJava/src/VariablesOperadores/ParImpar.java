@@ -2,7 +2,7 @@ package VariablesOperadores;
 
 import java.util.Scanner;
 
-public class Practica6 {
+public class ParImpar {
 
 	public static void main(String[] args) {
 		

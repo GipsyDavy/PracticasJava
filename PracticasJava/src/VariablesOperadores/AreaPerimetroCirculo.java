@@ -1,6 +1,6 @@
 package VariablesOperadores;
 
-public class Practica4 {
+public class AreaPerimetroCirculo {
 
 	public static void main(String[] args) {
 		
