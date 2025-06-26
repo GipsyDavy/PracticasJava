@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Practica6 {
 
 	public static void main(String[] args) {
+		
+		//Escribe un programa que determine si un número es par o impar usando el operador ternario.
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Introduce un número entero: ");
@@ -22,7 +25,7 @@ public class Practica6 {
 		System.out.println("El número es impar.");
 		}*/
 
-		
+		sc.close();
 	}
 
 }
