@@ -2,6 +2,10 @@ package EstructurasControl;
 
 import java.util.Scanner;
 
+/*Implementa un programa en Java que dada una fecha, nos indique cuál es la estación del año. En el hemisferio que tú quieras, aunque la solución se dará del 
+hemisferio norte. El día del mes, y el mes del año se deben introducir como números enteros a través del teclado*/
+
+
 public class EstacionesAño1 {
 
 	public static void main(String[] args) {
