@@ -13,18 +13,26 @@ public class TablaMultiplicarFor {
 		System.out.print("Introduzca un número entero del 1 al 10 -> ");
 		int num = sc.nextInt();
 				
-		System.out.println();		
+		System.out.println();
+		
+		if (num < 1 || num > 10) {
+			System.out.println("Número introducido no válido");
+		}
+		else {
+			
+		System.out.println();
 		System.out.println("La tabla de multiplicar del " + num + " es:");
 		System.out.println();
 		System.out.println("---------------------------------");
 		System.out.println();
-			
+		
 			for (int i = 1; i <= 10; i++) {				
 							
 				int resultado = i * num;
 				System.out.println(resultado);
 			}
-			
+		}
+		
 		sc.close();
 		}
 		
