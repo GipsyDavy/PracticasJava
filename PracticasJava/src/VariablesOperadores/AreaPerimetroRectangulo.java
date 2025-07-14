@@ -28,7 +28,7 @@ public class AreaPerimetroRectangulo {
 		System.out.println("El área del rectángulo es: " + areaRectangulo);
 		System.out.println("El perímetro del rectángulo es: " + perimetroRectangulo);
 		
-		
+		sc.close();
 
 	}
 
