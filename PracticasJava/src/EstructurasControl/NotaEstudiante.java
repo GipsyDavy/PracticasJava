@@ -18,7 +18,7 @@ public class NotaEstudiante {
 			case 6 -> "Bien";
 			case 7, 8 -> "Notable";
 			case 9, 10 -> "Sobresaliente";
-			default -> "Nota no váloida";
+			default -> "Nota no válida";
 			
 		};
 		
@@ -26,9 +26,6 @@ public class NotaEstudiante {
 		
 		
 		sc.close();
-		
-		
-		
 		
 		
 
